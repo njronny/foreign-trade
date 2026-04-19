@@ -32,7 +32,7 @@
 - 这些公司已经在从中国采购 = 最佳目标
 
 ## 6. B2B平台RFQ（免费）
-- Alibaba.com → "Buying Requests"
+- Made-in-China.com → "Buying Requests"
 - Made-in-China.com → "采购信息"
 - GlobalSources.com → 买家求购
 

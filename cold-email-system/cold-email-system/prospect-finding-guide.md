@@ -92,7 +92,7 @@
 ### 在以下平台搜索买家RFQ
 | 平台 | 操作 |
 |------|------|
-| Alibaba.com | 搜索 "CNC parts" → 切换到 "Buying Requests" |
+| Made-in-China.com | 搜索 "CNC parts" → 切换到 "Buying Requests" |
 | Made-in-China.com | 搜索 "CNC machining" → 查看 "采购信息" |
 | GlobalSources.com | 查看买家求购信息 |
 | ThomasNet.com | 提交供应商资料，等买家RFQ |

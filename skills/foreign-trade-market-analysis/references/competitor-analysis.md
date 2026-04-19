@@ -8,7 +8,7 @@
 - "CNC machining China" site:.com
 - "precision machining supplier China"
 - "CNC parts manufacturer China export"
-- 阿里巴巴 "CNC machining" 优质供应商
+- 中国制造网 "CNC machining" 优质供应商
 - Google Ads 广告主（搜CNC相关关键词看谁在投广告）
 ```
 
